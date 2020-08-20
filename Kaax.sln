@@ -7,7 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kaax", "Kaax\Kaax.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kaax.Tests", "Kaax.Tests\Kaax.Tests.csproj", "{4B7B8E80-A7D7-48D5-B273-C7E7DE2BB102}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaax.Sample", "Kaax.Sample\Kaax.Sample.csproj", "{ABDCDA21-61A9-469A-871F-473623F005AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kaax.Sample", "Kaax.Sample\Kaax.Sample.csproj", "{ABDCDA21-61A9-469A-871F-473623F005AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27879202-6E34-4987-BBC5-3BF8FD397320}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
