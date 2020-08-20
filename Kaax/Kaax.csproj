@@ -2,6 +2,11 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
+		<Authors>Miguel Román</Authors>
+		<Version>1.0.0</Version>
+		<Description>A simple .net core database connection provider. Using DbProviderFactory.</Description>
+		<RepositoryUrl>https://github.com/miguelerm/kaax</RepositoryUrl>
+		<PackageTags>sql;database;ado;ado.net</PackageTags>
 	</PropertyGroup>
 
 	<ItemGroup>
