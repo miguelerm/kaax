@@ -32,7 +32,7 @@ In the previous example all storage classes will receive an instance of
 For Example:
 
 ```cs
-class DogsSqlStorage
+class DogsSqlStorage: IDogsStorage
 {
     public DogsSqlStorage(IDbConnectionProvider db)
     {
